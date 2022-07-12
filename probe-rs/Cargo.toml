@@ -31,7 +31,7 @@ lazy_static = "1.4.0"
 hidapi = "1.2.0"
 gimli = "0.23.0"
 object = "0.23.0"
-bitfield = "0.13.2"
+bitfield = "0.14.0"
 serde = { version = "1.0.104", features = ["derive"] }
 serde_yaml = "0.8.11"
 ihex = "3.0.0"
